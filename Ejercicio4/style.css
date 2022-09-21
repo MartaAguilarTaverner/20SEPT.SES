@@ -1,0 +1,21 @@
+li {
+    list-style-type: none;
+}
+
+.text-color-blue {
+    color:rgb(77, 121, 202);
+}
+
+.text-color-darkblue {
+    color:rgb(59, 89, 180);
+}
+
+.title-background {
+    background-color:rgb(255, 219, 128);
+}
+
+.container {
+    background-color: rgb(250, 244, 214);
+    width: 30vw;
+    padding: 2rem;
+}

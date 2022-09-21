@@ -1,0 +1,12 @@
+body {
+    background-color: lightskyblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.font-color-blueviolet {
+    color: blueviolet
+}
+
+.double-font-size {
+    font-size: 2rem;
+}

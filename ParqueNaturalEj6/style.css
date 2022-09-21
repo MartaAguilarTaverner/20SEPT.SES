@@ -1,0 +1,45 @@
+.text-color-green {
+    color:rgba(137, 224, 49, 0.849)
+}
+
+.text-color-sand {
+    color:rgb(199, 131, 43)
+}
+
+.text-color-greendark {
+    color:rgba(109, 185, 33, 0.932)
+}
+
+body {
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-title {
+    display: flex;
+    justify-content: center;
+}
+
+.container-menu-nd-page {
+    display: flex;
+}
+
+.container-page {
+    border: 1px solid lightgrey; 
+    padding: 1.5rem;
+}
+
+.container-menu {
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+
+.underline-text {
+    border-bottom: 1px solid lightgrey;
+    width: 100%;
+}
